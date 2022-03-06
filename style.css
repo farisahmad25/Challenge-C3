@@ -1,0 +1,294 @@
+.html,
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 0px;
+}
+
+
+.main h1{
+    position: relative;
+    font-size: 5vw;
+    top:  45vh;
+    left: 12vw;
+    color: white;
+}
+
+.main p{
+    position: relative;
+    color: white;
+    top: 50vh;
+    left: 24vw;
+    width: 600px; 
+    font-size: 2vw;
+
+}
+
+.container-1 h6{
+    position: relative;
+    top: 85vh; 
+    left: 42vw;
+    color: white;
+
+} 
+
+.container-1 img{
+    position: relative;
+    top: 82vh; 
+    left: 110vh;
+}
+
+.button{
+    position: relative;
+    top: 10vh; 
+    left: 10vh;
+} 
+
+.button1{
+    position: relative;
+    top: 50vh;
+    width: 100px;
+    left: 41vw;
+
+}
+
+.test {
+    background: url("./assets/main-bg.jpg.");
+    background-size: cover ;
+    position: relative ; 
+    height: 150vh; 
+    background-repeat: no-repeat;
+    object-fit: cover;
+
+
+} 
+.main2{
+    background: url("./assets/the-games-bg.jpg");
+    background-size: cover;
+    position: relative ; 
+    height: 150vh;
+    background-repeat: no-repeat;
+    object-fit: cover; 
+}
+
+.main2 p{
+    position: relative;
+    top: 25vh; 
+    left: 10vw;
+    color: white;
+} 
+
+.main2 h2{
+    position: relative;
+    top: 25vh; 
+    left: 10vw;
+    color: white;
+} 
+
+/* .slide{
+    position: relative;
+    top: 25vh; 
+    left: 10vw;
+} 
+
+.slide img{
+    position: relative;
+    width: 30vw;
+} */
+
+.main2-1 {
+  position: relative;
+  width: 55vw;
+  left: 35vw;
+  top: -4vh;
+  }
+
+.main3 {
+    background: url("./assets/features.jpg");
+    background-size: cover;
+    position: relative ; 
+    height: 100vh;
+    top: 100px;
+    background-repeat: no-repeat;
+
+}
+
+.main3 h1{
+  position: relative;
+  font-size: 5vw;
+  top: 14vh;
+  left: 54vw;
+  width: 16vw; 
+  color: white;
+} 
+
+.main3 p{
+    position: relative;
+    font-size: 2vw;
+    top: 18vh;
+    left: 54vw;
+    width: 20vw;
+} 
+
+.main3-1 {
+    position: relative;
+    top: 5vh;
+  } 
+  
+.main3-1 p,
+  span {
+    position: relative;
+    font-size: 1vw; 
+  } 
+
+  .main3-1 i {
+    position: relative;
+    top: 2vh;
+    left: 54vw;
+    width: 12vw;
+  }
+  
+  /* main3-2 */
+  
+  .main3-2 p {
+    position: relative;
+    font-size: 2vw;
+    top: 26vh;
+    left: 54vw;
+    width: 12vw;
+  }
+  
+  .main3-2 i {
+    position: relative;
+    top: 25vh;
+    left: 54vw;
+    width: 12vw;
+  }
+  
+  /* main3-3 */
+  
+  .main3-3 p {
+    position: relative;
+    font-size: 2vw;
+    top: 28vh;
+    left: 54vw;
+    width: 12vw; 
+  }
+
+.main4 {
+    background: url(./assets/requirements.png);
+    height: 100vh;
+    position: relative;
+    background-size: cover; 
+    top: 130px;
+}
+
+.main4 p{
+    position: relative;
+    font-size: 1vw;
+    top: 5vh;
+    left: 42vw;
+    width: 35vw; 
+    
+}
+
+.main4 h1{
+  position: relative;
+  font-size: 4vw;
+  top: 14vh;
+  left: 4vw;
+  width: 16vw; 
+  color: white;
+}
+
+
+.main5 {
+    background: url(./assets/top.score.jpeg);
+    height: 100vh;
+    position: relative;
+    background-size: cover; 
+    top: 340px; 
+} 
+
+.main5 h1 {
+  position: relative;
+  font-size: 3vw;
+  top: 30vh;
+  left: 10vw;
+  width: 45vw; 
+  color: white;
+} 
+
+.main5 p {
+  position: relative;
+  font-size: 1vw;
+  top: 30vh;
+  left: 10vw;
+  width: 20vw;
+}
+
+.main5 button {
+  position: relative;
+  top: 30vh;
+  left: 10vw;
+  width: 20vw;
+  height: 8vh;
+}
+
+.main6 {
+  background: url(./assets/black.jpeg) ;
+  background-size: cover ;
+  position: relative ; 
+  height: 100vh; 
+  background-repeat: no-repeat;
+  object-fit: cover; 
+  top: 610px;
+}
+
+.main6 img {
+  position: absolute;
+  top: 10vh;
+  left: 15vw;
+  width: 20vw;
+}
+
+.main6 p{
+  position: relative;
+  font-size: 1vw;
+  top: 9vh;
+  left: 50vw;
+  width: 8vw;
+} 
+
+.main6 h1{
+  position: relative;
+  font-size: 5vw;
+  top: 7vh;
+  left: 49vw;
+  width: 25vw; 
+  color: white;
+}
+
+.main6 h6{
+  position: relative;
+  font-size: 1vw;
+  top: 7vh;
+  left: 49vw;
+  width: 25vw; 
+  color: white;
+}
+
+.main6 form {
+  position: relative;
+  top: 8vh;
+  left:47vw; 
+  width: 20vw;
+}
+
+.main6 button {
+  position: relative;
+  top: 0vh;
+  left: 68vw;
+  width: 20vw;
+  height: 8vh;
+}
